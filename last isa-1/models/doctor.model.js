@@ -6,6 +6,7 @@ const {Schema}= mongoose ;
 
 const doctorschema =Schema
 ({
+
     name: {type:String , require:true},
     email: {type:String, index: true, unique: true },
     password: {type: String, require: true },
@@ -24,7 +25,6 @@ const doctorschema =Schema
     shifts: {type:String, require:true},
     clinic_phone: {type:Number , require:true , unique:true },
     cost: {type:Number, require:true},
-    d_id : {type: Number , defualt: 1}
 
 })
 

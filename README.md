@@ -4,5 +4,5 @@ software Based on on-Demand business model is a door-way to improve healthcare e
 
 # Screenshoots
 
-![Screen Healer](https://user-images.githubusercontent.com/49656607/91982507-9f956980-ed2a-11ea-8aa9-8ebf942fb75f.jpg)
+![Screen Healer](https://user-images.githubusercontent.com/49656607/91983018-5f82b680-ed2b-11ea-846a-b0e546114960.jpg)
 
